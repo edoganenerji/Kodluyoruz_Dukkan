@@ -6,6 +6,7 @@ The app is implemented by using **react-native**. We use **Axios** to pull the i
 We perform **react-navigation** in order to manage stack structure of the mobile app.
 
 ## Products Page
-![Products](https://github.com/edoganenerji/Kodluyoruz_Dukkan/blob/main/src/images/ProductsPage.png)
-## Detail Page
-![Details](https://github.com/edoganenerji/Kodluyoruz_Dukkan/blob/main/src/images/DetailPage.png)
+![Products](https://github.com/edoganenerji/Kodluyoruz_Dukkan/blob/main/src/images/DetailPage.png)
+## Details Page
+![Details](https://github.com/edoganenerji/Kodluyoruz_Dukkan/blob/main/src/images/ProductsPage.png)
+
